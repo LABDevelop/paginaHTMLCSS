@@ -1,2 +1,2 @@
 # paginaHTMLCSS
-Página criada para treinar HTML e CSS
+Site criado com HMTL5 e CSS3.
